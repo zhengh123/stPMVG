@@ -1,5 +1,5 @@
 # stPMVG
-Code for A Pseudo-Label Multi-View Graph Contrastive Learning Framework for Identifying Spatial Domains 
+stPMVG: A graph contrastive learning framework with adaptive graph augmentation and false negative debiasing for spatial domain identification  
 <p align="center">
   <img src="model.png" width="85%" alt="stPMVG Framework"/>
 </p>
