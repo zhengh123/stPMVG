@@ -1,7 +1,7 @@
 # stPMVG
 stPMVG: A graph contrastive learning framework with adaptive graph augmentation and false negative debiasing for spatial domain identification  
 <p align="center">
-  <img src="model.png" width="85%" alt="stPMVG Framework"/>
+  <img src="fig1.png" width="85%" alt="stPMVG Framework"/>
 </p>
 
 
